@@ -1,2 +1,2 @@
-fastapi[standard]
-websockets
+fastapi[standard]>=0.128.0
+websockets==16.0
